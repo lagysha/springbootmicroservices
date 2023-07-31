@@ -1,7 +1,7 @@
 package com.example.departmentservice.controllers;
 
 import com.example.departmentservice.dto.DepartmentDto;
-import com.example.departmentservice.services.DepartmentService;
+import com.example.departmentservice.service.DepartmentService;
 import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
