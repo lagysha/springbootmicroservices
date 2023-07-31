@@ -1,6 +1,6 @@
-package com.example.departmentservice.repositoties;
+package com.example.departmentservice.repository;
 
-import com.example.departmentservice.enteties.Department;
+import com.example.departmentservice.entity.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

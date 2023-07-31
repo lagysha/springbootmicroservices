@@ -1,4 +1,4 @@
-package com.example.departmentservice.services;
+package com.example.departmentservice.service;
 
 import com.example.departmentservice.dto.DepartmentDto;
 

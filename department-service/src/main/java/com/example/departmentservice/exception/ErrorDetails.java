@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class ErrorDetails {
     private LocalDateTime timestamp;
-    private String path;
     private String message;
+    private String path;
     private String errorCode;
 }
